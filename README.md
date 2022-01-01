@@ -1,1 +1,1 @@
-![hypothetical logo](https://github.com/kylevgross/hypothetical/blob/main/logo_flat_blue.png)
+![hypothetical logo](/logo_flat_blue.png)
